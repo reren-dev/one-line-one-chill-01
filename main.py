@@ -9,8 +9,8 @@ import os
 from pathlib import Path
 
 LINE = (
-    "The baby monitor crackled at 3 a.m., and a small voice I didn't "
-    "recognize said, 'Mummy, the man in your bed isn't Daddy.'"
+    "Every night I count my children before bed \u2014 three heads, "
+    "three heartbeats \u2014 and tonight I counted four."
 )
 
 
